@@ -2,6 +2,8 @@
 
 for Diagonal Linear Networks: a Provable Benefit of stochasticity
 
+Reimplementations and some further experiments of https://arxiv.org/pdf/2106.09524.pdf 
+
 ### The effect of L0 Norm of beta
 
 **Convergence**
